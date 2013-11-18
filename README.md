@@ -1,0 +1,3 @@
+3D Texture Synthesis
+====================
+Texture synthesis has a wide range of applications, from object removal to mapping textures onto 3D objects. However, textures in 2D have limits, and when mapping a texture to an arbitrary 3D object, it is often better to use a solid 3D model of the texture. In this project, I explore a method to synthesize a continuous 3D solid texture from an arbitrary 2D exemplar texture.
